@@ -16,11 +16,11 @@
 lang: en-US
 title: My Awesome Site
 email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description:黄甘津的个人网站
+baseurl: "cecilia-mm"# the optional subpath of your site, e.g. "/blog"
+url:"https://cecilia-mm.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name:黄甘津
   twitter:
   picture:
 twitter_username:
